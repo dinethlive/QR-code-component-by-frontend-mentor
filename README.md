@@ -5,7 +5,6 @@
     >=> Challenge Link</a
   >
 </h2>
-<hr />
 <h2>
   <a href="https://dinethlive.github.io/QR-code-component-by-frontend-mentor/">
     => My Solution ( DEMO )
